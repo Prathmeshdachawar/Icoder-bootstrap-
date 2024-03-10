@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+}
+#html,body{
+    height: 100%;
+    width: 100%;
+}
+#h1{
+    color: rgb(138, 255, 127);
+}
+.navbar-brand{
+    color: rgb(27, 229, 247);
+}
+#main{
+    height: 100%;
+    width: 100%;
+}
